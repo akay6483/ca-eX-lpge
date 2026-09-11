@@ -1,0 +1,3 @@
+Supervised Link Prediction in a Co-Authorship Network
+
+Common Neighbors, Jaccard & Adamic-Adar Index, Node2Vec Graph Embeddings, Negative Edge Sampling, XGBoost & Random Forest Classification
